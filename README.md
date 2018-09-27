@@ -1,2 +1,3 @@
 # hands_on_tf
-practice_tensorflow 
+practice_tensorflow  Eager
+
